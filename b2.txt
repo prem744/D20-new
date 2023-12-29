@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 sasuke is the shadow hokage of the hidden leaf
+=======
+sasuke
+sasuke- chidori
+>>>>>>> Stashed changes
 
