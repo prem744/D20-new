@@ -1,4 +1,6 @@
-sam*.sh
-sam*.py
-sam*.txt
+sam{1..3}.sh
+sam{1..3}.txt
+sam{1..3}.py
+sam{1..3}.html
+
 
